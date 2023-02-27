@@ -6,6 +6,9 @@
 - Grigor Tashchyan: gtashchyan@sandiego.edu
 
 ### Project Summary
+Our project is focused around the development of an ETL (extract, transform, & load) pipeline that starts with the extracting of data from public API data sources, of which have a focus around public safety and environmental awareness.
+
+#### Set Up Requirements
 
 
 ### Results
