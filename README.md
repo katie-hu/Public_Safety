@@ -12,3 +12,7 @@ Our project is focused around the development of an ETL (extract, transform, & l
 
 
 ### Results
+
+
+#### Data Source Credits
+Thank you to RapidAPI that provided the platform for the three APIs that were used in the creation of this pipeline.
