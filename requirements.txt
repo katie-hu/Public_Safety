@@ -2,3 +2,12 @@ jupyterlab
 numpy
 pandas
 nbclient
+pymysql
+requests
+json
+getpass
+mysql
+datetime
+smtplib
+ssl
+email
