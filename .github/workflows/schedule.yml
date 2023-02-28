@@ -23,6 +23,7 @@ jobs:
       - id: repo
         name: Repo Checkout
         uses: actions/checkout@v3
+
       - id: python
         name: Python Setup & Packages Installation
         uses: actions/setup-python@v4
@@ -33,5 +34,5 @@ jobs:
 
       - id: jupyter
         name: Jupyter Notebook Execution
-        uses: jupyter execute ADS507-Team7.ipynb
+        run: jupyter execute ADS507-Team7.ipynb
         shell: bash
