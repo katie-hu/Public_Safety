@@ -5,6 +5,6 @@ nbclient
 pymysql
 requests
 mysql
-mysql-connector-python-rf
 mysqlclient
+mysql.connector
 boto3
