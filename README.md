@@ -1,3 +1,5 @@
+![GitHub contributors](https://img.shields.io/github/contributors/katie-hu/Public_Safety)
+
 # Welcome to the USD-ADS507 Team 7 Home Page!
 
 ### Public Safety
