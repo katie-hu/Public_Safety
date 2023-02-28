@@ -23,7 +23,7 @@ jobs:
 
       - name: Run notebook
         run: |
-          jupyter nbconvert --to notebook --execute --inplace ADS507-Team7.ipynb
+          jupyter nbconvert --to notebook --execute --inplace Public_Safety/ADS507-Team7.ipynb
           
       - name: Commit changes
         run: |
