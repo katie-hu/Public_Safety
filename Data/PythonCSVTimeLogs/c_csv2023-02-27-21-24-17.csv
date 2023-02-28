@@ -1,0 +1,2 @@
+,date,total_confirmed_cases_state,total_deaths_state,recovered,confirmed_today_state,deaths_today_state,recovered_today_state,fatality_rate_state,country,state,state_latitude,state_longitude,city,fips_city_code,city_latitude,city_longitude,total_confirmed_cases_city,total_deaths_city,confirmed_today_city,deaths_today_city,last_API_update
+0,2023-02-26,12084297,100816,0,0,0,0,0.0083,USA,California,36.1162,-119.6816,San Diego,6073,33.03484597,-116.7365326,1064093,5768,0,0,2023-02-27 04:20:54
