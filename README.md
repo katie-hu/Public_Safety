@@ -13,8 +13,17 @@ Our project is focused around the development of an ETL (extract, transform, & l
 
 
 #### Set Up Requirements
+This notebook is run using Python and SQL.
+Keys: RapidAPI requires subscriptions to have keys to pull the requests.
+For security purposes, it is recommended to save these keys in a configuration file. The file used in this design is named config.py
 
+Following Libraries Needed:
 
+numpy, pandas, config, pymysql, json, requests, warnings, getpass, mysql.connector, datetime, smtplib, ssl, email, mimetext, mimemultipart, boto3
+
+Email Feature: 
+
+This pipeline includes an automated email service. To use this part of the pipeline, you will need to have an email account and know the password. Within the code in the Jupyter Notebook, there is a troubleshooting section if the connection to your email errors. This is due to your email account settings. There is a step-by-step tutorial that will resolve these issues.
 ### Results
 Final Output will be an automated email that will provide a daily update for Weather, Air Quality, and Covid-19 along with an Air Quality Index guide to understand the data.
 
