@@ -10,4 +10,4 @@ mysql
 datetime
 smtplib
 ssl
-email
+email-to
