@@ -5,4 +5,5 @@ nbclient
 pymysql
 requests
 mysql
-
+mysql-connector-python-rf
+mysqlclient
