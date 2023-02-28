@@ -36,3 +36,8 @@ jobs:
         name: Jupyter Notebook Execution
         run: jupyter execute ADS507-Team7.ipynb
         shell: bash
+        
+      - id: mysql
+        name: Setup MySQL
+        uses: mirromutth/mysql-action@v1.1
+
