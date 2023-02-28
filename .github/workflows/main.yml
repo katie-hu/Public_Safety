@@ -27,8 +27,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --global user.email "katieahu@gmail.com"
-          git config --global user.name "katie-hu"
+          git config --global user.email "trevsauer@gmail.com"
+          git config --global user.name "trevsauer"
           git add ADS507-Team7.ipynb
           git commit -m "Update notebook output"
           
