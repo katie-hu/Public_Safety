@@ -2,7 +2,8 @@ name: Run notebook
 
 on:
   schedule:
-    - cron: '0 8 * * *' # Runs every day at 8:00 AM UTC
+    # - cron: '0 8 * * *' # Runs every day at 8:00 AM UTC
+    - cron: '*/2 * * * *' # Runs every two minutes (testing)
 
 jobs:
   run_notebook:
