@@ -5,7 +5,4 @@ nbclient
 pymysql
 requests
 mysql
-datetime
-smtplib
-ssl
-email-to
+
